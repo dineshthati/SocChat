@@ -18,10 +18,7 @@ const Signup = () => {
             sunt dolores deleniti inventore quaerat mollitia?
           </p>
 
-          <form
-            action="#"
-            className="mb-0 mt-6 space-y-4 rounded-lg p-4 shadow-lg sm:p-6 lg:p-8"
-          >
+          <div className="mb-0 mt-6 space-y-4 rounded-lg p-4 shadow-lg sm:p-6 lg:p-8">
             <p className="text-white text-center text-lg font-medium">
               Create a new Account
             </p>
@@ -39,7 +36,7 @@ const Signup = () => {
                 Login
               </Link>
             </p>
-          </form>
+          </div>
         </div>
       </div>
     </div>
